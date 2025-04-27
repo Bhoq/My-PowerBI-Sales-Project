@@ -1,2 +1,2 @@
-# My-PowerBI-Sales-Project
+# My-PowerBI-Sales And Customer Analytics-Project
 Customer Sales Analytics Dashboard
